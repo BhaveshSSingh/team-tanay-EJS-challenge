@@ -67,6 +67,8 @@ body {
 
 .highlight {
   color: var(--primary-color);
+  text-decoration: none;
+
 }
 
 /* section */
