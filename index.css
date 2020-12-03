@@ -142,9 +142,11 @@ footer {
 
 .list-item-inline {
   display: inline;
-  padding: 0rem 0.5rem;
+  /* padding: 0rem 0.5rem; */
 }
-
+p{
+  padding: 0;
+}
 /* Container */
 .container {
   /* padding-left: 1rem;
