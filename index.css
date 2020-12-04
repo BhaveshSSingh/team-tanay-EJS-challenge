@@ -69,7 +69,9 @@ body {
   color: var(--primary-color);
   text-decoration: none;
 }
-
+.highlight1 {
+  color: #f59e0b;
+}
 /* section */
 .section {
   padding: 2rem;
