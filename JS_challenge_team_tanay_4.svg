@@ -4,33 +4,33 @@
 	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#3A3A3A;}
-	.st1{fill:#FFFFFF;}
-	.st2{font-family:'MyriadPro-Regular';}
-	.st3{font-size:235.0819px;}
-	.st4{display:none;fill:#E5A229;}
-	.st5{display:none;fill:#F1BE21;}
-	.st6{display:none;fill:#FFFFFF;}
-	.st7{display:none;fill:#EBEAEA;}
+	.st1{display:none;fill:#E5A229;}
+	.st2{display:none;fill:#F1BE21;}
+	.st3{display:none;fill:#FFFFFF;}
+	.st4{display:none;fill:#EBEAEA;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'MyriadPro-Regular';}
+	.st7{font-size:284.157px;}
 	.st8{font-family:'MyriadPro-Bold';}
-	.st9{font-size:31.293px;}
-	.st10{letter-spacing:30;}
-	.st11{font-size:40px;}
+	.st9{font-size:37.8257px;}
+	.st10{letter-spacing:36;}
+	.st11{font-size:48.3503px;}
 </style>
 <g id="Layer_1">
 	<g>
 		<circle class="st0" cx="518.75" cy="480.5" r="325.5"/>
 	</g>
-	<text transform="matrix(1 0 0 1 478.6207 506.4678)" class="st1 st2 st3">ejs</text>
-	<polygon class="st4" points="440.23,378.53 365.8,378.53 365.8,378.53 291.37,378.53 305.32,529.86 365.8,547.01 365.8,547.01 
+	<polygon class="st1" points="440.23,378.53 365.8,378.53 365.8,378.53 291.37,378.53 305.32,529.86 365.8,547.01 365.8,547.01 
 		365.8,547.01 365.8,547.01 365.8,547.01 426.26,529.86 	"/>
-	<polygon class="st5" points="365.8,390.86 365.8,534.19 365.8,534.19 414.78,520.31 426.7,390.86 	"/>
-	<polygon class="st6" points="404.77,409.43 329.43,409.43 324.2,466.09 324.31,465.73 388.3,465.73 386.21,489.7 365.8,495.58 
+	<polygon class="st2" points="365.8,390.86 365.8,534.19 365.8,534.19 414.78,520.31 426.7,390.86 	"/>
+	<polygon class="st3" points="404.77,409.43 329.43,409.43 324.2,466.09 324.31,465.73 388.3,465.73 386.21,489.7 365.8,495.58 
 		345.08,489.61 343.83,475.11 325.02,475.11 327.71,504.09 365.8,514.91 403.89,504.09 409.14,447.21 341.23,447.21 342.1,428.24 
 		389.23,428.24 389.92,439.1 408.9,439.1 	"/>
-	<path class="st7" d="M365.8,409.43h-36.37l-5.24,56.66l0.11-0.36h41.49v-18.52h-21.95l0.87-18.97h21.08V409.43z M343.83,475.11
+	<path class="st4" d="M365.8,409.43h-36.37l-5.24,56.66l0.11-0.36h41.49v-18.52h-21.95l0.87-18.97h21.08V409.43z M343.83,475.11
 		h-18.81l2.69,28.99l38.09,10.79v-19.3l-20.72-5.97L343.83,475.11z"/>
-	<text transform="matrix(1 0 0 1 320.6266 616.3193)" class="st1 st8 st9 st10">CHALLENGE</text>
-	<text transform="matrix(1 0 0 1 419.7904 302.7656)" class="st1 st2 st11">#teamtanay</text>
+	<text transform="matrix(1 0 0 1 463.4473 536.9824)" class="st5 st6 st7">ejs</text>
+	<text transform="matrix(1 0 0 1 272.4717 669.7656)" class="st5 st8 st9 st10">CHALLENGE</text>
+	<text transform="matrix(1 0 0 1 392.3364 309.7549)" class="st5 st6 st11">#teamtanay</text>
 	
 		<image style="overflow:visible;" width="1200" height="1585" xlink:href="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYn
 KSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo
@@ -4514,7 +4514,7 @@ FD/AO/5+uiLmS5+J0ltHwLq4+zF/tB+1a44y/hp/9nJ+DERWYH81eBjEeqXXBH+cD+rN/as9cf4b
 /wDsZf7TURX4j8x+eRGl6ntMzbubP9j/AOkKj/8A03J7j/aCIvK/x+2Jsvcwtr/jDe/50X92VKH/
 AOaT/Nb+CIrMZ+ZH/wAfkiMPVfiytav+mT/z/wBqvZP4NEXNxHrkIiX24f6X4LGQ/wAZaz9Ub+1E
 WKXqv+n/ANkYe/nsMrT/APR4/cqsnP4oi1J7vxJCLr71V6IirnuDwr0oiiD5PtBfQ5IiPYAIURAe
-IiIAiIgCIiAIiID/2Q==" transform="matrix(0.1274 0 0 0.1274 307 354)">
+IiIAiIgCIiAIiID/2Q==" transform="matrix(0.154 0 0 0.154 256 352.6848)">
 	</image>
 </g>
 <g id="Layer_2">
