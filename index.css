@@ -49,26 +49,25 @@ body {
 
 .hero .hero-img {
   margin: auto;
-  margin-top:1rem ;
+  margin-top: 1rem;
   width: 100%;
   max-width: 350px;
   display: block;
-  border-radius:.5rem ;
+  border-radius: 0.5rem;
 }
 
 .hero .hero-heading {
   text-align: center;
   padding-top: 1rem;
-  color:var(--primary-color);
+  color: var(--primary-color);
 }
 .hero .hero-heading .highlight {
-  color: var(--dark-gray)
+  color: var(--dark-gray);
 }
 
 .highlight {
   color: var(--primary-color);
   text-decoration: none;
-
 }
 
 /* section */
@@ -146,7 +145,7 @@ footer {
   display: inline;
   /* padding: 0rem 0.5rem; */
 }
-p{
+p {
   padding: 0;
 }
 /* Container */
@@ -177,3 +176,107 @@ blockquote {
   max-width: 700px;
   margin: auto;
 }
+/* cards
+.card-body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.card {
+  display: grid;
+  grid-template-columns: 300px;
+  grid-template-rows: 210px 210px 80px;
+  grid-template-areas: "image" "text" "stats";
+
+  font-family: "Poppins", sans-serif;
+  border-radius: 18px;
+  background: white;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
+  text-align: center;
+
+  transition: 0.5s ease;
+  cursor: pointer;
+  margin: 1rem;
+}
+
+.card-image {
+  grid-area: image;
+  background: url("imgg.jpg");
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  background-size: cover;
+}
+.card-image2 {
+  grid-area: image;
+  background: url("guruji.jpg");
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  background-size: cover;
+}
+.card-image3 {
+  grid-area: image;
+  background: url("anjali.jpeg");
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  background-size: cover;
+}
+.card-text {
+  grid-area: text;
+  margin: 25px;
+}
+.card-text .date {
+  color: var(--primary-color);
+  font-size: 13px;
+}
+.card-text p {
+  color: var(--primary-color);
+  font-size: 15px;
+  font-weight: 300;
+}
+.card-text h2 {
+  margin-top: 0px;
+  font-size: 28px;
+}
+.card-stats {
+  grid-area: stats;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background: var(--dark-gray);
+}
+.card-stats .stat {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+  color: white;
+}
+.card-stats .type {
+  font-size: 11px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.card-stats .value {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.card-stats .value sup {
+  font-size: 12px;
+}
+.card:hover {
+  transform: scale(1.2);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+}
+.highlight-card {
+  color: var(--primary-color);
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+} */
